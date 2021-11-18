@@ -16,9 +16,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager" selected="Application.EjemploArreglos1">
+  <component name="RunManager" selected="Application.EjemploArreglos2">
     <configuration name="EjemploArreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arreglos.EjemploArreglos" />
       <module name="12-java-arreglos" />
@@ -45,8 +46,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploArreglos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arreglos.EjemploArreglos2" />
+      <module name="12-java-arreglos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arreglos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploArreglos2" />
         <item itemvalue="Application.EjemploArreglos1" />
         <item itemvalue="Application.EjemploArreglos" />
       </list>
@@ -60,7 +75,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637265417397</updated>
+      <workItem from="1637265418714" duration="2539000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
