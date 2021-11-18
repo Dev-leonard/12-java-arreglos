@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e42ef9e1-0d9f-46b4-ae24-17f5abe906ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploArregloForInverso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosForInversoMutable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12-java-arreglos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/12-java-arreglos/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +36,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager" selected="Application.EjemploArregloForInverso">
+  <component name="RunManager" selected="Application.EjemploArreglosForInversoMutable">
     <configuration name="EjemploArregloForInverso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploArregloForInverso" />
       <module name="12-java-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploArreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arreglos.EjemploArreglos" />
-      <module name="12-java-arreglos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arreglos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploArreglosForInversoMutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArreglosForInversoMutable" />
+      <module name="12-java-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploArreglosForInversoMutable" />
         <item itemvalue="Application.EjemploArregloForInverso" />
         <item itemvalue="Application.EjemploArreglosFor" />
         <item itemvalue="Application.EjemploArreglos2" />
         <item itemvalue="Application.EjemploArreglos1" />
-        <item itemvalue="Application.EjemploArreglos" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637265417397</updated>
-      <workItem from="1637265418714" duration="5975000" />
+      <workItem from="1637265418714" duration="9316000" />
     </task>
     <servers />
   </component>
