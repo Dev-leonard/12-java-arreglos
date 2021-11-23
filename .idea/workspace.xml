@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e42ef9e1-0d9f-46b4-ae24-17f5abe906ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosCombinados2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosNumMayor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager" selected="Application.EjemploArreglosCombinados2">
+  <component name="RunManager" selected="Application.EjemploArreglosNumMayor">
     <configuration name="EjemploArreglosCombinados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploArreglosCombinados" />
       <module name="12-java-arreglos" />
@@ -50,15 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploArreglosForOrdenamientoBurbuja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArreglosForOrdenamientoBurbuja" />
+    <configuration name="EjemploArreglosForOrdenamientoBurbuja2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArreglosForOrdenamientoBurbuja2" />
       <module name="12-java-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploArreglosForOrdenamientoBurbuja2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArreglosForOrdenamientoBurbuja2" />
+    <configuration name="EjemploArreglosNumMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArreglosNumMayor" />
       <module name="12-java-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploArreglosNumMayor" />
         <item itemvalue="Application.EjemploArreglosCombinados2" />
         <item itemvalue="Application.EjemploArreglosCombinados" />
         <item itemvalue="Application.EjemploArreglosOrdenPrincipioFinal" />
         <item itemvalue="Application.EjemploArreglosForOrdenamientoBurbuja2" />
-        <item itemvalue="Application.EjemploArreglosForOrdenamientoBurbuja" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637265417397</updated>
-      <workItem from="1637265418714" duration="29920000" />
+      <workItem from="1637265418714" duration="30421000" />
     </task>
     <servers />
   </component>
