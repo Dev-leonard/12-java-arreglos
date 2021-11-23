@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e42ef9e1-0d9f-46b4-ae24-17f5abe906ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosOrdenPrincipioFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosCombinados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager" selected="Application.EjemploArreglosOrdenPrincipioFinal">
-    <configuration name="EjemploArregloForInverso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArregloForInverso" />
+  <component name="RunManager" selected="Application.EjemploArreglosCombinados">
+    <configuration name="EjemploArreglosCombinados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArreglosCombinados" />
       <module name="12-java-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploArreglosCombinados" />
         <item itemvalue="Application.EjemploArreglosOrdenPrincipioFinal" />
         <item itemvalue="Application.EjemploArreglosForOrdenamientoBurbuja2" />
         <item itemvalue="Application.EjemploArreglosForOrdenamientoBurbuja" />
         <item itemvalue="Application.EjemploArreglosForInversoMutable" />
-        <item itemvalue="Application.EjemploArregloForInverso" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637265417397</updated>
-      <workItem from="1637265418714" duration="27096000" />
+      <workItem from="1637265418714" duration="28204000" />
     </task>
     <servers />
   </component>
