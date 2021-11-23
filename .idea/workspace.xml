@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e42ef9e1-0d9f-46b4-ae24-17f5abe906ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjemeploAregloNotasAlumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosBuscarNumero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager" selected="Application.EjemeploAregloNotasAlumnos">
+  <component name="RunManager" selected="Application.EjemploArreglosBuscarNumero">
     <configuration name="EjemeploAregloNotasAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemeploAregloNotasAlumnos" />
       <module name="12-java-arreglos" />
@@ -43,8 +43,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploArreglosCombinados2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArreglosCombinados2" />
+    <configuration name="EjemploArreglosBuscarNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArreglosBuscarNumero" />
       <module name="12-java-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploArreglosBuscarNumero" />
         <item itemvalue="Application.EjemeploAregloNotasAlumnos" />
         <item itemvalue="Application.EjemploArreglosParesImpares" />
         <item itemvalue="Application.EjemploArreglosDetectarOrden" />
         <item itemvalue="Application.EjemploArreglosNumMayor" />
-        <item itemvalue="Application.EjemploArreglosCombinados2" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637265417397</updated>
-      <workItem from="1637265418714" duration="35148000" />
+      <workItem from="1637265418714" duration="37030000" />
     </task>
     <servers />
   </component>
