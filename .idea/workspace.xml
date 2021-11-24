@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e42ef9e1-0d9f-46b4-ae24-17f5abe906ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosBuscarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArregloDesplazarPosicion2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploArregloDesplazarPosicion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemploArregloDesplazarPosicion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +36,28 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
-  <component name="RunManager" selected="Application.EjemploArreglosBuscarString">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rleon\Desktop\PROYECTOS DEV-LEON\CursoJava\12-java-arreglos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploArregloDesplazarPosicion2">
     <configuration name="EjemeploAregloNotasAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemeploAregloNotasAlumnos" />
+      <module name="12-java-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploArregloDesplazarPosicion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArregloDesplazarPosicion" />
+      <module name="12-java-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploArregloDesplazarPosicion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArregloDesplazarPosicion2" />
       <module name="12-java-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,27 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploArreglosDetectarOrden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArreglosDetectarOrden" />
-      <module name="12-java-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploArreglosParesImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArreglosParesImpares" />
-      <module name="12-java-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploArregloDesplazarPosicion2" />
+        <item itemvalue="Application.EjemploArregloDesplazarPosicion" />
         <item itemvalue="Application.EjemploArreglosBuscarString" />
         <item itemvalue="Application.EjemploArreglosBuscarNumero" />
         <item itemvalue="Application.EjemeploAregloNotasAlumnos" />
-        <item itemvalue="Application.EjemploArreglosParesImpares" />
-        <item itemvalue="Application.EjemploArreglosDetectarOrden" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637265417397</updated>
-      <workItem from="1637265418714" duration="37643000" />
+      <workItem from="1637265418714" duration="40909000" />
     </task>
     <servers />
   </component>
